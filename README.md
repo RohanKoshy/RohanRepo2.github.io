@@ -13,7 +13,16 @@ Since me, Justin, and Kian are the only members in our 8 person group who will t
 Question: How are Linkedlists crucial for a Queue?
 Questions: What is Push entry and pop extraction?
 
+Generic T
+It can be used for any type and represents a generic type class.
+
 **Solutions for Week 0 Challenges**
 
 https://github.com/shekark642/slackbots-p2/tree/master/src/main/java/com/nighthawk/csa/Tri3
+
+**Solutions for Week 1 Challenges**
+
+https://github.com/RohanKoshy/RohanRepo/tree/main/src/main/java/Rohanschallenges
+
+
 
