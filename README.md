@@ -16,6 +16,9 @@ Questions: What is Push entry and pop extraction?
 Generic T
 It can be used for any type and represents a generic type class.
 
+Calculator
+Uses stacks to individualize each element of a calculator equation, then seperate between numbers and operations, then ogranize between order of operations. Then bring two numbers from the numbers stack and use the selected operator to solve individualized equations.
+
 **Solutions for Week 0 Challenges**
 
 https://github.com/shekark642/slackbots-p2/tree/master/src/main/java/com/nighthawk/csa/Tri3
