@@ -27,5 +27,10 @@ https://github.com/shekark642/slackbots-p2/tree/master/src/main/java/com/nightha
 
 https://github.com/RohanKoshy/RohanRepo/tree/main/src/main/java/Rohanschallenges
 
+*Solutions for Week 3 Challenges**
+
+https://github.com/RohanKoshy/RohanRepo/blob/main/src/main/java/Rohanschallenges/Calculator.java
+
+
 
 
